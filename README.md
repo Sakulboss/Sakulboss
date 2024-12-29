@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sakulboss
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning cyber security and java
+- 🌱 I’m currently learning cyber security and neural networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord - sakulboss
 - 😄 Pronouns: he/him
